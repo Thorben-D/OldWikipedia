@@ -1,0 +1,13 @@
+{
+    "name": "OldWikipediaLayout",
+    "version": "1.0.0",
+    "description": "Returns Wikipedia to it's old design by using ?useskin=vector",
+    "manifest_version": 3,
+    "author": "Thorben-D",
+    "content_scripts": [
+        {
+            "js": ["background.js"],
+            "matches": ["*://*.wikipedia.org/wiki/*"]
+        }
+    ]
+}
