@@ -1,5 +1,5 @@
 {
-    "name": "OldWikipediaLayout",
+    "name": "OldWikipedia",
     "version": "1.0.0",
     "description": "Returns Wikipedia to it's old design by using ?useskin=vector",
     "manifest_version": 3,
